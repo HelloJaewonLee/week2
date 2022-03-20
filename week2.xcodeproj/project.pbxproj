@@ -13,6 +13,7 @@
 		BA85B4A027E75EF900AE746F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA85B49E27E75EF900AE746F /* Main.storyboard */; };
 		BA85B4A227E75EFB00AE746F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA85B4A127E75EFB00AE746F /* Assets.xcassets */; };
 		BA85B4A527E75EFB00AE746F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA85B4A327E75EFB00AE746F /* LaunchScreen.storyboard */; };
+		BA85B4AD27E7653700AE746F /* PoketmonTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA85B4AC27E7653700AE746F /* PoketmonTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BA85B4A127E75EFB00AE746F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA85B4A427E75EFB00AE746F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA85B4A627E75EFB00AE746F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA85B4AC27E7653700AE746F /* PoketmonTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoketmonTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				BA85B4A127E75EFB00AE746F /* Assets.xcassets */,
 				BA85B4A327E75EFB00AE746F /* LaunchScreen.storyboard */,
 				BA85B4A627E75EFB00AE746F /* Info.plist */,
+				BA85B4AC27E7653700AE746F /* PoketmonTableViewCell.swift */,
 			);
 			path = week2;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				BA85B49D27E75EF900AE746F /* ViewController.swift in Sources */,
 				BA85B49927E75EF900AE746F /* AppDelegate.swift in Sources */,
+				BA85B4AD27E7653700AE746F /* PoketmonTableViewCell.swift in Sources */,
 				BA85B49B27E75EF900AE746F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
